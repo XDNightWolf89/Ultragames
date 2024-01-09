@@ -1,0 +1,25 @@
+body {
+    background-color: darkgray;
+    size: auto;
+}
+
+h1 {
+    background-color: darkblue;
+    font-size: larger;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+title {
+    text-decoration-color: black;
+    background-color: darkred;
+}
